@@ -411,6 +411,16 @@
       "medium_URL": "https://medium.com/@racoon-supply",
       "github_URL": "https://github.com/racoon-supply-rac",
       "featured": false
+    },
+    {
+      "title": "OneKey",
+      "subtitle": "Open source crypto wallet supporting Bitcoin, Ethereum, Solana and more. Secure hardware & software wallet trusted by millions.",
+      "external_URL": "https://onekey.so/",
+      "thumbnail_image_URL": "https://raw.githubusercontent.com/osmosis-labs/fe-content/main/cms/apps/images/onekey_thumbnail.webp",
+      "hero_image_URL": "https://raw.githubusercontent.com/osmosis-labs/fe-content/main/cms/apps/images/onekey_hero.webp",
+      "twitter_URL": "https://twitter.com/OneKeyHQ",
+      "github_URL": "https://github.com/onekeyhq",
+      "featured": false
     }
   ]
 }
