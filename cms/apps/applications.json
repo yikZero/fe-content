@@ -196,22 +196,6 @@
       }
     },
     {
-      "title": "TFM Pro Trading",
-      "subtitle": "The Pro-Trading Terminal of Cosmos. Proprietary IBC & DEX & NFT Aggregator! Transfer via IBC across all Cosmos app-chains.",
-      "external_URL": "https://app.tfm.com/osmosis/trade/protrade",
-      "thumbnail_image_URL": "https://raw.githubusercontent.com/osmosis-labs/fe-content/main/cms/apps/images/osmosis_pro_thumbnail.webp",
-      "hero_image_URL": "https://raw.githubusercontent.com/osmosis-labs/fe-content/main/cms/apps/images/tfm_pro_trading_hero.webp",
-      "twitter_URL": "https://twitter.com/tfm_com",
-      "medium_URL": "https://medium.com/@tfm.com",
-      "github_URL": "https://github.com/tfm-com",
-      "featured": false,
-      "internal_data": {
-        "thumbnail_size": 4084,
-        "hero_size": 57120,
-        "project_listing_date": "2023-05-30T15:32:59.804Z"
-      }
-    },
-    {
       "title": "Mars Farm",
       "subtitle": "Farm the fields of Mars. Leveraged yield farming on top of Apollo auto compounding vaults!",
       "external_URL": "https://app.marsprotocol.io/",
