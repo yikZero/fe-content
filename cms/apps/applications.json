@@ -14,57 +14,39 @@
       }
     },
     {
-      "title": "Start Cooking",
-      "subtitle": "Minting your Memecoin on Osmosis with just 2 clicks. All it takes is 1 OSMO.",
-      "external_URL": "https://start.cooking/",
-      "thumbnail_image_URL": "https://raw.githubusercontent.com/osmosis-labs/fe-content/main/cms/apps/images/start_cooking_thumbnail.webp",
-      "hero_image_URL": "https://raw.githubusercontent.com/osmosis-labs/fe-content/main/cms/apps/images/start_cooking_hero.webp",
-      "twitter_URL": "https://twitter.com/startcookingapp",
-      "medium_URL": "https://medium.com/@start.cooking157",
-      "github_URL": "https://github.com/BIG-Labs/cooking-contracts",
+      "title": "Squid Router",
+      "subtitle": "Cross-chain swaps and liquidity routing. Swap any token across chains in a single transaction.",
+      "external_URL": "https://app.squidrouter.com/",
+      "thumbnail_image_URL": "https://raw.githubusercontent.com/osmosis-labs/fe-content/main/cms/apps/images/squid_router_thumbnail.webp",
+      "hero_image_URL": "https://raw.githubusercontent.com/osmosis-labs/fe-content/main/cms/apps/images/squid_router_hero.webp",
+      "twitter_URL": "https://twitter.com/sqaboratory",
+      "github_URL": "https://github.com/0xsquid",
       "featured": false
     },
     {
-      "title": "Osmohall",
-      "subtitle": "Osmohall is the Pro Trading Terminal which offers high performance and access to the latest Osmosis gems.",
-      "external_URL": "https://coinhall.org/?chains=osmosis",
-      "thumbnail_image_URL": "https://raw.githubusercontent.com/osmosis-labs/fe-content/main/cms/apps/images/osmohall_thumbnail.webp",
-      "hero_image_URL": "https://raw.githubusercontent.com/osmosis-labs/fe-content/main/cms/apps/images/osmohall_hero.webp",
-      "twitter_URL": "https://twitter.com/coinhall_org",
-      "medium_URL": "https://medium.com/@Coinhall",
-      "github_URL": "https://github.com/coinhall",
+      "title": "Skip:Go",
+      "subtitle": "Universal cross-chain swaps and transfers. Bridge and swap across any chain with the best routes.",
+      "external_URL": "https://go.skip.build/",
+      "thumbnail_image_URL": "https://raw.githubusercontent.com/osmosis-labs/fe-content/main/cms/apps/images/skip_go_thumbnail.webp",
+      "hero_image_URL": "https://raw.githubusercontent.com/osmosis-labs/fe-content/main/cms/apps/images/skip_go_hero.webp",
+      "twitter_URL": "https://twitter.com/SkipProtocol",
+      "github_URL": "https://github.com/skip-mev",
       "featured": false
     },
     {
-      "title": "MilkyWay",
-      "subtitle": "Liquid staking protocol tailor-made for Celestia's modular ecosystem.",
-      "external_URL": "https://www.milkyway.zone/",
-      "thumbnail_image_URL": "https://raw.githubusercontent.com/osmosis-labs/fe-content/main/cms/apps/images/milkyway_thumbnail.webp",
-      "hero_image_URL": "https://raw.githubusercontent.com/osmosis-labs/fe-content/main/cms/apps/images/milkyway_hero.webp",
-      "twitter_URL": "https://twitter.com/milky_way_zone",
-      "medium_URL": "https://medium.com/milkyway-zone",
-      "github_URL": "https://github.com/milkyway-labs/",
+      "title": "Calculated Finance",
+      "subtitle": "Create DCA (Dollar Cost Averaging) strategies. Experience the smartest way to enter and exit your crypto positions.",
+      "external_URL": "https://app.calculated.fi/?chain=osmosis-1",
+      "thumbnail_image_URL": "https://raw.githubusercontent.com/osmosis-labs/fe-content/main/cms/apps/images/calculated_finance_thumbnail.webp",
+      "hero_image_URL": "https://raw.githubusercontent.com/osmosis-labs/fe-content/main/cms/apps/images/calculated_finance_hero.webp",
+      "twitter_URL": "https://twitter.com/CALC_Finance",
+      "medium_URL": "https://medium.com/@calculated.fi",
+      "github_URL": "https://github.com/calculated-finance",
       "featured": false,
       "internal_data": {
-        "thumbnail_size": 584212,
-        "hero_size": 353485,
-        "project_listing_date": "2024-01-04T19:54:20.999Z"
-      }
-    },
-    {
-      "title": "Membrane",
-      "subtitle": "Mint the global medium of exchange in the form of an over-collateralized stablecoin: $CDT",
-      "external_URL": "https://cdt.money/",
-      "thumbnail_image_URL": "https://raw.githubusercontent.com/osmosis-labs/fe-content/main/cms/apps/images/membrane_thumbnail.webp",
-      "hero_image_URL": "https://raw.githubusercontent.com/osmosis-labs/fe-content/main/cms/apps/images/membrane_hero.webp",
-      "twitter_URL": "https://twitter.com/saneinthembrn",
-      "medium_URL": "https://medium.com/@membranefinance",
-      "github_URL": "https://github.com/MembraneFinance",
-      "featured": false,
-      "internal_data": {
-        "thumbnail_size": 105051,
-        "hero_size": 482129,
-        "project_listing_date": "2023-11-11T20:13:57.458Z"
+        "thumbnail_size": 62478,
+        "hero_size": 80820,
+        "project_listing_date": "2023-05-30T15:32:59.804Z"
       }
     },
     {
@@ -148,67 +130,19 @@
       }
     },
     {
-      "title": "Levana Perps",
-      "subtitle": "Fully-collateralized, low cost perpetual swaps",
-      "external_URL": "https://trade.levana.finance/",
-      "thumbnail_image_URL": "https://raw.githubusercontent.com/osmosis-labs/fe-content/main/cms/apps/images/levana_perps_thumbnail.webp",
-      "hero_image_URL": "https://raw.githubusercontent.com/osmosis-labs/fe-content/main/cms/apps/images/levana_perps_hero.webp",
-      "twitter_URL": "https://twitter.com/Levana_protocol",
-      "medium_URL": "https://medium.com/levana-protocol",
-      "github_URL": "https://github.com/levana-Protocol/",
+      "title": "Membrane",
+      "subtitle": "Mint the global medium of exchange in the form of an over-collateralized stablecoin: $CDT",
+      "external_URL": "https://cdt.money/",
+      "thumbnail_image_URL": "https://raw.githubusercontent.com/osmosis-labs/fe-content/main/cms/apps/images/membrane_thumbnail.webp",
+      "hero_image_URL": "https://raw.githubusercontent.com/osmosis-labs/fe-content/main/cms/apps/images/membrane_hero.webp",
+      "twitter_URL": "https://twitter.com/saneinthembrn",
+      "medium_URL": "https://medium.com/@membranefinance",
+      "github_URL": "https://github.com/MembraneFinance",
       "featured": false,
       "internal_data": {
-        "thumbnail_size": 1232094,
-        "hero_size": 1685306,
-        "project_listing_date": "2023-07-17T17:32:58.873Z"
-      }
-    },
-    {
-      "title": "Mars Red Bank",
-      "subtitle": "Lend and borrow money with the Osmosis Blockchain.",
-      "external_URL": "https://app.marsprotocol.io/",
-      "thumbnail_image_URL": "https://raw.githubusercontent.com/osmosis-labs/fe-content/main/cms/apps/images/mars_red_bank_thumbnail.webp",
-      "hero_image_URL": "https://raw.githubusercontent.com/osmosis-labs/fe-content/main/cms/apps/images/mars_red_bank_hero.webp",
-      "twitter_URL": "https://twitter.marsprotocol.io",
-      "medium_URL": "https://medium.marsprotocol.io",
-      "github_URL": "https://github.marsprotocol.io",
-      "featured": false,
-      "internal_data": {
-        "thumbnail_size": 585918,
-        "hero_size": 500200,
-        "project_listing_date": "2023-05-30T15:32:59.804Z"
-      }
-    },
-    {
-      "title": "Calculated Finance",
-      "subtitle": "Create DCA (Dollar Cost Averaging) strategies. Experience the smartest way to enter and exit your crypto positions.",
-      "external_URL": "https://app.calculated.fi/?chain=osmosis-1",
-      "thumbnail_image_URL": "https://raw.githubusercontent.com/osmosis-labs/fe-content/main/cms/apps/images/calculated_finance_thumbnail.webp",
-      "hero_image_URL": "https://raw.githubusercontent.com/osmosis-labs/fe-content/main/cms/apps/images/calculated_finance_hero.webp",
-      "twitter_URL": "https://twitter.com/CALC_Finance",
-      "medium_URL": "https://medium.com/@calculated.fi",
-      "github_URL": "https://github.com/calculated-finance",
-      "featured": false,
-      "internal_data": {
-        "thumbnail_size": 62478,
-        "hero_size": 80820,
-        "project_listing_date": "2023-05-30T15:32:59.804Z"
-      }
-    },
-    {
-      "title": "Mars Farm",
-      "subtitle": "Farm the fields of Mars. Leveraged yield farming on top of Apollo auto compounding vaults!",
-      "external_URL": "https://app.marsprotocol.io/",
-      "thumbnail_image_URL": "https://raw.githubusercontent.com/osmosis-labs/fe-content/main/cms/apps/images/mars_farm_thumbnail.webp",
-      "hero_image_URL": "https://raw.githubusercontent.com/osmosis-labs/fe-content/main/cms/apps/images/mars_farm_hero.webp",
-      "twitter_URL": "https://twitter.marsprotocol.io",
-      "medium_URL": "https://medium.marsprotocol.io",
-      "github_URL": "https://github.marsprotocol.io",
-      "featured": false,
-      "internal_data": {
-        "thumbnail_size": 61300,
-        "hero_size": 51314,
-        "project_listing_date": "2023-05-30T15:32:59.804Z"
+        "thumbnail_size": 105051,
+        "hero_size": 482129,
+        "project_listing_date": "2023-11-11T20:13:57.458Z"
       }
     },
     {
@@ -289,44 +223,6 @@
       }
     },
     {
-      "title": "Apollo Safe",
-      "subtitle": "Apollo Safe is the easiest way to secure, manage and govern a wallet with multiple members",
-      "external_URL": "https://safe.apollo.farm/osmosis-1/overview",
-      "thumbnail_image_URL": "https://raw.githubusercontent.com/osmosis-labs/fe-content/main/cms/apps/images/apollo_safe_thumbnail.webp",
-      "hero_image_URL": "https://raw.githubusercontent.com/osmosis-labs/fe-content/main/cms/apps/images/apollo_safe_hero.webp",
-      "twitter_URL": "https://twitter.com/apollodao",
-      "medium_URL": "https://articles.apollo.farm/",
-      "github_URL": "https://github.com/CosmWasm/cw-plus/blob/main/packages/cw3/README.md",
-      "featured": false,
-      "internal_data": {
-        "thumbnail_size": 134210,
-        "hero_size": 40306,
-        "project_listing_date": "2023-05-30T15:32:59.804Z"
-      }
-    },
-    {
-      "title": "ReframeBot",
-      "subtitle": "Telegram trading bot companion for Osmosis",
-      "external_URL": "https://reframe.bot",
-      "thumbnail_image_URL": "https://raw.githubusercontent.com/osmosis-labs/fe-content/main/cms/apps/images/reframebot_thumbnail.png",
-      "hero_image_URL": "https://raw.githubusercontent.com/osmosis-labs/fe-content/main/cms/apps/images/reframebot_hero.png",
-      "twitter_URL": "https://twitter.com/reframe_bot",
-      "medium_URL": "https://reframebot.medium.com/",
-      "github_URL": "https://github.com/reframe-bot",
-      "featured": false
-    },
-    {
-      "title": "WhiteWhale",
-      "subtitle": "WhiteWhale DEX on Osmosis",
-      "external_URL": "https://app.whitewhale.money/osmosis/pools",
-      "thumbnail_image_URL": "https://raw.githubusercontent.com/osmosis-labs/fe-content/main/cms/apps/images/white-whale_thumbnail.png",
-      "hero_image_URL": "https://raw.githubusercontent.com/osmosis-labs/fe-content/main/cms/apps/images/white-whale_hero.png",
-      "twitter_URL": "https://twitter.com/WhiteWhaleDefi",
-      "medium_URL": "https://medium.com/@whitewhaleterra",
-      "github_URL": "https://github.com/White-Whale-Defi-Platform",
-      "featured": false
-    },
-    {
       "title": "DAO DAO",
       "subtitle": "Interchain DAO tooling for teams, protocols, and organizations of any size.",
       "external_URL": "https://daodao.zone",
@@ -338,18 +234,6 @@
       "featured": false,
       "internal_data": {
         "project_listing_date": "2024-05-06T22:00:00.000Z"
-      }
-    },
-    {
-      "title": "Isaac",
-      "subtitle": "Trade any token in Cosmos using Telegram.",
-      "external_URL": "https://isaac.finance",
-      "thumbnail_image_URL": "https://raw.githubusercontent.com/osmosis-labs/fe-content/main/cms/apps/images/isaac_thumbnail.webp",
-      "hero_image_URL": "https://raw.githubusercontent.com/osmosis-labs/fe-content/main/cms/apps/images/isaac_hero.webp",
-      "twitter_URL": "https://twitter.com/trade_isaac",
-      "featured": false,
-      "internal_data": {
-        "project_listing_date": "2024-05-06T22:00:01.000Z"
       }
     },
     {
@@ -383,17 +267,6 @@
       "twitter_URL": "https://twitter.com/BackBone_Labs",
       "medium_URL": "https://medium.com/@backbone_labs",
       "github_URL": "https://github.com/backbonelabsio",
-      "featured": false
-    },
-    {
-      "title": "Racoon.Bet",
-      "subtitle": "Feeling lucky? Try our 9 games of chance to hit those 50x!",
-      "external_URL": "https://racoon.bet",
-      "thumbnail_image_URL": "https://raw.githubusercontent.com/osmosis-labs/fe-content/main/cms/apps/images/racoon_bet_thumbnail.webp",
-      "hero_image_URL": "https://raw.githubusercontent.com/osmosis-labs/fe-content/main/cms/apps/images/racoon_bet_hero.webp",
-      "twitter_URL": "https://twitter.com/RacoonSupply",
-      "medium_URL": "https://medium.com/@racoon-supply",
-      "github_URL": "https://github.com/racoon-supply-rac",
       "featured": false
     },
     {
