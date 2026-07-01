@@ -2,18 +2,6 @@
   "$schema": "../../schemas/applications.schema.json",
   "applications": [
     {
-      "title": "Polaris",
-      "subtitle": "Enter Polaris, the Token Portal. Trade all tokens, across all chains.",
-      "external_URL": "https://polaris.app/",
-      "thumbnail_image_URL": "https://raw.githubusercontent.com/osmosis-labs/fe-content/main/cms/apps/images/polaris_thumbnail.webp",
-      "hero_image_URL": "https://raw.githubusercontent.com/osmosis-labs/fe-content/main/cms/apps/images/polaris_hero.webp",
-      "twitter_URL": "https://twitter.com/Polaris_App",
-      "featured": true,
-      "internal_data": {
-        "project_listing_date": "2025-06-19T15:01:09.000"
-      }
-    },
-    {
       "title": "Squid Router",
       "subtitle": "Cross-chain swaps and liquidity routing. Swap any token across chains in a single transaction.",
       "external_URL": "https://app.squidrouter.com/",
@@ -82,41 +70,9 @@
       }
     },
     {
-      "title": "Pulsar Finance",
-      "subtitle": "Track your portfolio performance across 70+ blockchains in a single place, from Tokens to DeFi & NFTs.",
-      "external_URL": "https://pulsar.finance/",
-      "thumbnail_image_URL": "https://raw.githubusercontent.com/osmosis-labs/fe-content/main/cms/apps/images/pulsar_finance_thumbnail.webp",
-      "hero_image_URL": "https://raw.githubusercontent.com/osmosis-labs/fe-content/main/cms/apps/images/pulsar_finance_hero.webp",
-      "twitter_URL": "https://twitter.com/PulsarFinance",
-      "medium_URL": "https://medium.com/@pulsarfinance",
-      "github_URL": "https://github.com/PulsarDefi/",
-      "featured": false,
-      "internal_data": {
-        "thumbnail_size": 64186,
-        "hero_size": 961772,
-        "project_listing_date": "2023-07-31T22:34:16.961Z"
-      }
-    },
-    {
-      "title": "Margined Protocol",
-      "subtitle": "Go long on leveraged assets using power perpetuals without risk of liquidation!",
-      "external_URL": "https://trade.margined.io",
-      "thumbnail_image_URL": "https://raw.githubusercontent.com/osmosis-labs/fe-content/main/cms/apps/images/margined_protocol_thumbnail.webp",
-      "hero_image_URL": "https://raw.githubusercontent.com/osmosis-labs/fe-content/main/cms/apps/images/margined_protocol_hero.webp",
-      "twitter_URL": "https://twitter.com/margined_io",
-      "medium_URL": "https://medium.com/@margined_io",
-      "github_URL": "https://github.com/margined-protocol",
-      "featured": false,
-      "internal_data": {
-        "thumbnail_size": 48912,
-        "hero_size": 91364,
-        "project_listing_date": "2023-11-09T03:12:31.315Z"
-      }
-    },
-    {
       "title": "Stride",
       "subtitle": "Liquid staking for the Cosmos. Enables you to transfer, trade, and borrow against your tokens - without missing any staking rewards.",
-      "external_URL": "https://app.stride.zone/?chain=OSMO",
+      "external_URL": "https://app.stride.zone/",
       "thumbnail_image_URL": "https://raw.githubusercontent.com/osmosis-labs/fe-content/main/cms/apps/images/stride_thumbnail.webp",
       "hero_image_URL": "https://raw.githubusercontent.com/osmosis-labs/fe-content/main/cms/apps/images/stride_hero.webp",
       "twitter_URL": "https://twitter.com/stride_zone",
@@ -127,22 +83,6 @@
         "thumbnail_size": 46620,
         "hero_size": 85092,
         "project_listing_date": "2023-07-31T22:34:16.961Z"
-      }
-    },
-    {
-      "title": "Membrane",
-      "subtitle": "Mint the global medium of exchange in the form of an over-collateralized stablecoin: $CDT",
-      "external_URL": "https://cdt.money/",
-      "thumbnail_image_URL": "https://raw.githubusercontent.com/osmosis-labs/fe-content/main/cms/apps/images/membrane_thumbnail.webp",
-      "hero_image_URL": "https://raw.githubusercontent.com/osmosis-labs/fe-content/main/cms/apps/images/membrane_hero.webp",
-      "twitter_URL": "https://twitter.com/saneinthembrn",
-      "medium_URL": "https://medium.com/@membranefinance",
-      "github_URL": "https://github.com/MembraneFinance",
-      "featured": false,
-      "internal_data": {
-        "thumbnail_size": 105051,
-        "hero_size": 482129,
-        "project_listing_date": "2023-11-11T20:13:57.458Z"
       }
     },
     {
@@ -207,22 +147,6 @@
       }
     },
     {
-      "title": "ION DAO",
-      "subtitle": "Decentralized autonomous organization for community governance",
-      "external_URL": "https://ion.wtf",
-      "thumbnail_image_URL": "https://raw.githubusercontent.com/osmosis-labs/fe-content/main/cms/apps/images/ion_dao_thumbnail.webp",
-      "hero_image_URL": "https://raw.githubusercontent.com/osmosis-labs/fe-content/main/cms/apps/images/ion_dao_hero.webp",
-      "twitter_URL": "https://twitter.com/_IONDAO",
-      "medium_URL": "https://medium.com/@IBCindex",
-      "github_URL": "https://github.com/many-things/ion-dao-contracts",
-      "featured": false,
-      "internal_data": {
-        "thumbnail_size": 181078,
-        "hero_size": 116680,
-        "project_listing_date": "2023-05-30T15:32:59.804Z"
-      }
-    },
-    {
       "title": "DAO DAO",
       "subtitle": "Interchain DAO tooling for teams, protocols, and organizations of any size.",
       "external_URL": "https://daodao.zone",
@@ -248,20 +172,9 @@
       "featured": false
     },
     {
-      "title": "Necropolis",
-      "subtitle": "NFT marketplace with yield-generating bASSETs, fostering community-driven growth.",
-      "external_URL": "https://app.backbonelabs.io/necropolis",
-      "thumbnail_image_URL": "https://raw.githubusercontent.com/osmosis-labs/fe-content/main/cms/apps/images/necropolis_thumbnail.webp",
-      "hero_image_URL": "https://raw.githubusercontent.com/osmosis-labs/fe-content/main/cms/apps/images/necropolis_hero.webp",
-      "twitter_URL": "https://twitter.com/BackBone_Labs",
-      "medium_URL": "https://medium.com/@backbone_labs",
-      "github_URL": "https://github.com/backbonelabsio",
-      "featured": false
-    },
-    {
-      "title": "GraveDigger",
-      "subtitle": "The only multi-chain liquid staking platform where 100% of the performance fees are distributed back to the community.",
-      "external_URL": "https://app.backbonelabs.io/gravedigger",
+      "title": "Backbone Labs",
+      "subtitle": "Liquid staking (GraveDigger), Skeleton Swap, and the Necropolis NFT marketplace across the interchain.",
+      "external_URL": "https://app.backbonelabs.io/liquid-staking/gravedigger/osmosis-1",
       "thumbnail_image_URL": "https://raw.githubusercontent.com/osmosis-labs/fe-content/main/cms/apps/images/gravedigger_thumbnail.webp",
       "hero_image_URL": "https://raw.githubusercontent.com/osmosis-labs/fe-content/main/cms/apps/images/gravedigger_hero.webp",
       "twitter_URL": "https://twitter.com/BackBone_Labs",
