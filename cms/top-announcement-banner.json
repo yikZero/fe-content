@@ -5,80 +5,81 @@
     "enTextOrLocalizationPath": "header",
     "link": {
       "enTextOrLocalizationKey": "link",
-      "url": "https://app.osmosis.zone/assets/MILK"
+      "url": "https://cypherhq.io/blog/cypher-is-being-acquired-by-nium",
+      "isExternal": true
     },
-    "localStorageKey": "milkyway-milk-listing",
-    "startDate": "2025-04-29T15:00:00Z",
-    "endDate": "2025-05-02T15:00:00Z"
+    "localStorageKey": "cypher-card-winddown",
+    "startDate": "2026-07-09T00:00:00Z",
+    "endDate": "2026-09-07T00:00:00Z"
   },
   "localization": {
     "de": {
-      "header": "Milkyway ($MILK) wird jetzt auf Osmosis gehandelt!",
-      "link": "Schau es dir an!"
+      "header": "Die Osmosis Pay Card wird eingestellt: Letzter Tag zum Bezahlen ist der 7. August. Hebe dein Guthaben bis zum 6. September 2026 ab.",
+      "link": "Mehr erfahren"
     },
     "en": {
-      "header": "Milkyway ($MILK) is now trading on Osmosis!",
-      "link": "Check it out!"
+      "header": "The Osmosis Pay card is winding down: last day to spend is Aug 7. Withdraw your funds by Sep 6, 2026.",
+      "link": "Learn more"
     },
     "es": {
-      "header": "¡Milkyway ($MILK) ya se negocia en Osmosis!",
-      "link": "¡Échale un vistazo!"
+      "header": "La tarjeta Osmosis Pay se está retirando: el último día para gastar es el 7 de agosto. Retira tus fondos antes del 6 de septiembre de 2026.",
+      "link": "Más información"
     },
     "fa": {
-      "header": "میلكی‌وی ($MILK) اکنون در Osmosis معامله می‌شود!",
-      "link": "نگاهی بیندازید!"
+      "header": "کارت Osmosis Pay در حال توقف است: آخرین روز خرید ۷ اوت است. وجوه خود را تا ۶ سپتامبر ۲۰۲۶ برداشت کنید.",
+      "link": "اطلاعات بیشتر"
     },
     "fr": {
-      "header": "Milkyway ($MILK) est désormais échangé sur Osmosis !",
-      "link": "Découvrez-le !"
+      "header": "La carte Osmosis Pay prend fin : dernier jour pour payer le 7 août. Retirez vos fonds avant le 6 septembre 2026.",
+      "link": "En savoir plus"
     },
     "gu": {
-      "header": "Milkyway ($MILK) હવે Osmosis પર ટ્રેડ થઈ રહ્યો છે!",
-      "link": "આ ઝાંખી લો!"
+      "header": "Osmosis Pay કાર્ડ બંધ થઈ રહ્યું છે: ખર્ચ કરવાનો છેલ્લો દિવસ 7 ઓગસ્ટ છે. 6 સપ્ટેમ્બર 2026 સુધીમાં તમારું ભંડોળ ઉપાડી લો.",
+      "link": "વધુ જાણો"
     },
     "hi": {
-      "header": "Milkyway ($MILK) अब Osmosis पर ट्रेड हो रहा है!",
-      "link": "देखिए!"
+      "header": "Osmosis Pay कार्ड बंद हो रहा है: खर्च करने का आखिरी दिन 7 अगस्त है। 6 सितंबर 2026 तक अपनी धनराशि निकाल लें।",
+      "link": "अधिक जानें"
     },
     "ja": {
-      "header": "Milkyway ($MILK) が Osmosis で取引開始されました！",
-      "link": "ぜひチェックしてください！"
+      "header": "Osmosis Pay カードはサービス終了となります。カード利用は8月7日まで、2026年9月6日までに資金を引き出してください。",
+      "link": "詳細はこちら"
     },
     "ko": {
-      "header": "Milkyway($MILK)가 이제 Osmosis에서 거래됩니다!",
-      "link": "확인해보세요!"
+      "header": "Osmosis Pay 카드 서비스가 종료됩니다. 카드 사용은 8월 7일까지 가능하며, 2026년 9월 6일까지 자금을 출금하세요.",
+      "link": "자세히 보기"
     },
     "pl": {
-      "header": "Milkyway ($MILK) jest już notowany na Osmosis!",
-      "link": "Sprawdź to!"
+      "header": "Karta Osmosis Pay jest wycofywana: ostatni dzień płatności to 7 sierpnia. Wypłać środki do 6 września 2026 r.",
+      "link": "Dowiedz się więcej"
     },
     "pt-br": {
-      "header": "Milkyway ($MILK) já está sendo negociado na Osmosis!",
-      "link": "Confira!"
+      "header": "O cartão Osmosis Pay está sendo encerrado: o último dia para gastar é 7 de agosto. Retire seus fundos até 6 de setembro de 2026.",
+      "link": "Saiba mais"
     },
     "ro": {
-      "header": "Milkyway ($MILK) este acum tranzacționat pe Osmosis!",
-      "link": "Verifică aici!"
+      "header": "Cardul Osmosis Pay se închide: ultima zi pentru plăți este 7 august. Retrage-ți fondurile până la 6 septembrie 2026.",
+      "link": "Află mai multe"
     },
     "ru": {
-      "header": "Milkyway ($MILK) теперь торгуется на Osmosis!",
-      "link": "Посмотрите!"
+      "header": "Карта Osmosis Pay прекращает работу: последний день оплаты 7 августа. Выведите средства до 6 сентября 2026 г.",
+      "link": "Подробнее"
     },
     "tr": {
-      "header": "Milkyway ($MILK) artık Osmosis'te işlem görüyor!",
-      "link": "Göz atın!"
+      "header": "Osmosis Pay kartı kullanımdan kaldırılıyor: son harcama günü 7 Ağustos. Fonlarınızı 6 Eylül 2026'ya kadar çekin.",
+      "link": "Daha fazla bilgi"
     },
     "zh-cn": {
-      "header": "Milkyway ($MILK) 现已在 Osmosis 上交易！",
-      "link": "快来看看！"
+      "header": "Osmosis Pay 卡即将停止服务：8月7日为最后消费日，请在2026年9月6日前提取您的资金。",
+      "link": "了解更多"
     },
     "zh-hk": {
-      "header": "Milkyway ($MILK) 現已在 Osmosis 上交易！",
-      "link": "立即查看！"
+      "header": "Osmosis Pay 卡即將停止服務：8月7日為最後消費日，請於2026年9月6日前提取您的資金。",
+      "link": "了解更多"
     },
     "zh-tw": {
-      "header": "Milkyway ($MILK) 現已在 Osmosis 上交易！",
-      "link": "快來看看！"
+      "header": "Osmosis Pay 卡即將停止服務：8月7日為最後消費日，請於2026年9月6日前提取您的資金。",
+      "link": "了解更多"
     }
   }
 }
