@@ -1,0 +1,107 @@
+{
+  "$schema": "../schemas/asset-alerts.schema.json",
+  "alerts": [
+    {
+      "denoms": [
+        "ibc/7D29C888219883C47C623578ACACFC89CC29AA70FBF09C895A1EED911BF90F32",
+        "ibc/B3DFDC2958A2BE482532DA3B6B5729B469BE7475598F7487D98B1B3E085245DE",
+        "ibc/2F4258D6E1E01B203D6CA83F2C7E4959615053A21EC2C2FC196F7911CAC832EF",
+        "ibc/869E01805EBBDDCAEA588666CD5149728B7DC7D69F30D92F77AD67F77CEB3FDA",
+        "ibc/905326586AE1C86AC8B1CDB20BE957DE5FB23963EDD2C9ADD3E835CC22115A46",
+        "ibc/DDE1238DCBC338C0FD0700A72CBD64C017B7A646C4A46789ADFB5D47F1E52E38",
+        "ibc/A1465DD6AF456FCD0D998869608DFEEDA4F4C11EC0A12AF92A994A3F8CBEE546",
+        "ibc/013DE940BE791C79142EAD4DF071E1ED280DFEAB8A9DCB5932A4603A74C25CBB",
+        "ibc/2C5CB5DB3D86F64FDE6155A3A94D7543A126DA55490309EEDF59A0765873DA1C",
+        "ibc/51BFF64A432CBBA08A1ED95609BF0255EC4BBF699BFCDFF267F66CCD664CA350",
+        "ibc/18A91A3DDFD9776A247AE1B4B3298D754D1627B85F288DCEA473B7239F7B7A0E",
+        "factory/osmo1cranx3twqxfrgeqvgsu262gy54vafpc9xap6scye99v244zl970s7kw2sz/alloyed/allBCH",
+        "factory/osmo1csp8fk353hnq2tmulklecxpex43qmjvrkxjcsh4c3eqcw2vjcslq5jls9v/alloyed/allLTC",
+        "factory/osmo10nu66efsxxkdgh70xs8xur9mygrg79m5ht7zcmzsrdzxkhz7hpssz9hg9k/alloyed/allPENGU",
+        "factory/osmo1524q4dt7ckx25daydfd0ya0hyu6t26ch5509nvmxm4gcvuhk0fvs8qzl5q/alloyed/allTRUMP",
+        "factory/osmo1twk0c4kcwnhkyn6pzxe0qsk6a3nrye2w2sy309d60sljfysugagsd7e3mn/alloyed/allZEC"
+      ],
+      "banner": {
+        "enTextOrLocalizationPath": "header",
+        "localStorageKey": "bitfrost-int3face-sunset",
+        "link": {
+          "enTextOrLocalizationKey": "link",
+          "url": "https://x.com/_Bitfrost_/status/2082826447073300616",
+          "isExternal": true
+        },
+        "isWarning": true,
+        "startDate": "2026-07-30T00:00:00Z",
+        "endDate": "2026-08-10T23:59:59Z"
+      },
+      "localization": {
+        "de": {
+          "header": "Die BitFrost-Brücke (Int3face) wird eingestellt: Ziehe gegebenenfalls deine {symbols}-Liquidität ab und bridge deine Assets bis zum 10. August 2026.",
+          "link": "Mehr erfahren"
+        },
+        "en": {
+          "header": "The BitFrost (Int3face) bridge is winding down: withdraw {symbols} liquidity if applicable, then bridge your assets out before August 10, 2026.",
+          "link": "Learn more"
+        },
+        "es": {
+          "header": "El puente BitFrost (Int3face) se está cerrando: retira tu liquidez de {symbols} si corresponde y transfiere tus activos antes del 10 de agosto de 2026.",
+          "link": "Más información"
+        },
+        "fa": {
+          "header": "پل BitFrost (Int3face) در حال توقف است: در صورت وجود، نقدینگی {symbols} خود را برداشت کرده و دارایی‌های خود را تا ۱۰ اوت ۲۰۲۶ منتقل کنید.",
+          "link": "اطلاعات بیشتر"
+        },
+        "fr": {
+          "header": "Le pont BitFrost (Int3face) prend fin : retirez votre liquidité {symbols} le cas échéant, puis transférez vos actifs avant le 10 août 2026.",
+          "link": "En savoir plus"
+        },
+        "gu": {
+          "header": "BitFrost (Int3face) બ્રિજ બંધ થઈ રહ્યો છે: લાગુ પડે તો તમારી {symbols} લિક્વિડિટી પાછી ખેંચો અને 10 ઓગસ્ટ 2026 પહેલાં તમારી સંપત્તિ બ્રિજ કરો.",
+          "link": "વધુ જાણો"
+        },
+        "hi": {
+          "header": "BitFrost (Int3face) ब्रिज बंद हो रहा है: लागू हो तो अपनी {symbols} लिक्विडिटी निकालें और 10 अगस्त 2026 से पहले अपनी संपत्ति ब्रिज करें।",
+          "link": "अधिक जानें"
+        },
+        "ja": {
+          "header": "BitFrost（Int3face）ブリッジはサービス終了となります。2026年8月10日までに、必要に応じて{symbols}の流動性を引き出し、資産をブリッジしてください。",
+          "link": "詳細はこちら"
+        },
+        "ko": {
+          "header": "BitFrost(Int3face) 브리지 서비스가 종료됩니다. 2026년 8월 10일까지 해당되는 경우 {symbols} 유동성을 인출하고 자산을 브리지하세요.",
+          "link": "자세히 보기"
+        },
+        "pl": {
+          "header": "Most BitFrost (Int3face) jest wycofywany: w razie potrzeby wycofaj płynność {symbols} i przenieś swoje aktywa do 10 sierpnia 2026 r.",
+          "link": "Dowiedz się więcej"
+        },
+        "pt-br": {
+          "header": "A ponte BitFrost (Int3face) está sendo encerrada: retire sua liquidez de {symbols}, se aplicável, e transfira seus ativos até 10 de agosto de 2026.",
+          "link": "Saiba mais"
+        },
+        "ro": {
+          "header": "Podul BitFrost (Int3face) se închide: retrage-ți lichiditatea {symbols} dacă este cazul și transferă-ți activele până la 10 august 2026.",
+          "link": "Află mai multe"
+        },
+        "ru": {
+          "header": "Мост BitFrost (Int3face) прекращает работу: при необходимости выведите ликвидность {symbols} и переведите активы до 10 августа 2026 г.",
+          "link": "Подробнее"
+        },
+        "tr": {
+          "header": "BitFrost (Int3face) köprüsü kullanımdan kaldırılıyor: varsa {symbols} likiditenizi çekin ve varlıklarınızı 10 Ağustos 2026'ya kadar köprüden geçirin.",
+          "link": "Daha fazla bilgi"
+        },
+        "zh-cn": {
+          "header": "BitFrost（Int3face）跨链桥即将停止服务：请在2026年8月10日前提取您的 {symbols} 流动性（如有）并将资产跨链转出。",
+          "link": "了解更多"
+        },
+        "zh-hk": {
+          "header": "BitFrost（Int3face）跨鏈橋即將停止服務：請於2026年8月10日前提取您的 {symbols} 流動性（如有）並將資產跨鏈轉出。",
+          "link": "了解更多"
+        },
+        "zh-tw": {
+          "header": "BitFrost（Int3face）跨鏈橋即將停止服務：請於2026年8月10日前提取您的 {symbols} 流動性（如有）並將資產跨鏈轉出。",
+          "link": "了解更多"
+        }
+      }
+    }
+  ]
+}
